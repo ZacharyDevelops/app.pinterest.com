@@ -1,2 +1,3 @@
 # app.pinterest.com
-Sub Takeover
+
+## Test for Bug Bounty
